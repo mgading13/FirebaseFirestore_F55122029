@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10906163173",
+    "project_id": "fir-firestoref55122029",
+    "storage_bucket": "fir-firestoref55122029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10906163173:android:149d5d6ca216ddfe56810c",
+        "android_client_info": {
+          "package_name": "com.gading.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hSLjg-0TsEFtC9Ui-4w9uhJFiNU8Gt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
